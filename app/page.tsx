@@ -1,3 +1,7 @@
+export const metadata = {
+  title: "Sukhendu Tripura | Portfolio",
+  description: "M.Tech Data Engineering Student, Researcher, ML Enthusiast",
+};
 export default function Home() {
   return (
     <main className="min-h-screen bg-black text-white overflow-hidden">
